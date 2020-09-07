@@ -1,7 +1,7 @@
 .banner {
   background: url("https://media.cntraveler.com/photos/5db1d0dd11c1e500092e7133/master/pass/airbnb-ski-aspen-28328347.jpg")
     center center;
-  height: 50vh;
+  height: 60vh;
   position: relative;
 }
 
@@ -18,7 +18,6 @@
 .banner__search {
   display: flex;
   flex-direction: column;
-  top: 0;
 }
 
 .banner__searchButton {
